@@ -69,7 +69,8 @@ This folder is a **learning resource** and **reference guide** for:
    ```bash
    git clone https://github.com/GboyeeDev/DevOps-Learning-Process.git
 
-2. Navigate to the Linux folder:
-    cd DevOps-Learning-Process/Week-1
+2. **Navigate to the Linux folder**:
+   ```bash
+   cd DevOps-Learning-Process/Week-1
 
 3. Explore each chapter's documentation file to gain detailed insights.
