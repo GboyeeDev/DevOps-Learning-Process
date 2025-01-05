@@ -110,6 +110,3 @@ jobs:
 Understanding and utilizing build tools like Maven and Gradle, along with CI practices, is a crucial part of DevOps. Setting up basic CI pipelines helps automate and streamline the development process, enabling faster and more reliable software delivery.
 
 ---
-
-Feel free to expand this document as you delve deeper into DevOps and related technologies!
-
